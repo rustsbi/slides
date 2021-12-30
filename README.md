@@ -6,7 +6,7 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
-### RustSBI Implementation Under Asymmetric Multiprocessors, Jan 2022
+### RustSBI Implementation under Asymmetric Multiprocessors, Jan 2022
 
 This speech is initially delivered as a technology sharing in PLCT lab, Institute of Software,
 Acadamy of Sciences in China. It includes a complete design of RustSBI under Freefom
