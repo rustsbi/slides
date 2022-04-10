@@ -6,6 +6,14 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
+### [RISC-V Bootloader Environment: Application and Standardization](2022/RISC-V引导程序环境：应用与规范.pdf), Apr 2022
+
+Delivered online on discussion at open source RISC-V and Linux technology mettings. It includes
+the concept of bootloader environment when it comes to RISC-V firmwares, describes scenearios
+and necessarity of RISC-V firmware, how it should be developed using Rust langauge.
+This speech introduces Oreboot and RustSBI bootloading firmware to community and companies,
+and announces RustSBI's latest 0.2.2 version.
+
 ### RustSBI Implementation under Asymmetric Multiprocessors, Jan 2022
 
 This speech is initially delivered as a technology sharing in PLCT lab, Institute of Software,
