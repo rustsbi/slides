@@ -14,7 +14,7 @@ and necessarity of RISC-V firmware, how it should be developed using Rust langau
 This speech introduces Oreboot and RustSBI bootloading firmware to community and companies,
 and announces RustSBI's latest 0.2.2 version.
 
-### RustSBI Implementation under Asymmetric Multiprocessors, Jan 2022
+### [RustSBI Implementation under Asymmetric Multiprocessors](2022/非对称多核处理器的RustSBI实现.pdf), Jan 2022
 
 This speech is initially delivered as a technology sharing in PLCT lab, Institute of Software,
 Acadamy of Sciences in China. It includes a complete design of RustSBI under Freefom
