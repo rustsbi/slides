@@ -6,6 +6,14 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
+### [A Brief Guide to Secure Enclave Design in RustSBI Firmware](2022/安全孤岛RustSBI固件设计简明指南.pdf), Apr 2022
+
+This speech is delivered on online meeting of Tsinghua University undergraduate projects.
+It describes how RustSBI implementation would coexist with secure enclave RISC-V SBI extensions,
+a possible way to detect exception within function while executing instruction, and a Rust way to
+read supervisor memory from machine mode. It also introduces SBI implementation projects like Oreboot
+and RustSBI-Unmatched.
+
 ### [RISC-V Bootloader Environment: Application and Standardization](2022/RISC-V引导程序环境：应用与规范.pdf), Apr 2022
 
 Delivered online on discussion at open source RISC-V and Linux technology mettings. It includes
