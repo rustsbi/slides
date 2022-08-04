@@ -6,6 +6,14 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
+### [Embedded Rust and RustSBI Firmware Design](2022/嵌入式Rust与RustSBI固件设计.pdf), Jul 2022
+
+This talk is delivered on Rust China Conf 2022 hosted by Rustcc. It summerizes embedded Rust
+development and its surrounding ecosystem. Then, it introduces firmware development on example
+of RISC-V, and discusses on how to develop secure, reliable and robust firmware in Rust, as well as
+firmware features like secure enclaves and firmware on asymmetic processors. Finally, it introduces
+RustSBI and Oreboot, drawing an conclusion on how firmware would be developed under Rust ecosystem.
+
 ### [A Brief Guide to Secure Enclave Design in RustSBI Firmware](2022/安全孤岛RustSBI固件设计简明指南.pdf), Apr 2022
 
 This speech is delivered on online meeting of Tsinghua University undergraduate projects.
