@@ -6,13 +6,29 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
-### [Technologies and Applications in RustSBI 0.3.0](2022/RustSBI 0.3.0 发布会.pdf)
+### [Technologies and Applications in RustSBI 0.3.0](2022/RustSBI 0.3.0 发布会.pdf), Nov 2022
 
 This speech is delivered on weekly project meeting of rCore community. It announces RustSBI
 version 0.3.0 and shows important technologies and how RustSBI should be used. It includes
 RISC-V hypervisor and emulator development with RustSBI, introduces fast trap procedure and
 SBI testing framework, and shows how actual bootloader like Oreboot/LinuxBoot etc. should be
 implemented. It also compares performance and latency data of RustSBI to its competitors.
+
+### [Embedded Rust and RustSBI Firmware Design](2022/嵌入式Rust与RustSBI固件设计.pdf), Jul 2022
+
+This talk is delivered on Rust China Conf 2022 hosted by Rustcc. It summerizes embedded Rust
+development and its surrounding ecosystem. Then, it introduces firmware development on example
+of RISC-V, and discusses on how to develop secure, reliable and robust firmware in Rust, as well as
+firmware features like secure enclaves and firmware on asymmetic processors. Finally, it introduces
+RustSBI and Oreboot, drawing an conclusion on how firmware would be developed under Rust ecosystem.
+
+### [A Brief Guide to Secure Enclave Design in RustSBI Firmware](2022/安全孤岛RustSBI固件设计简明指南.pdf), Apr 2022
+
+This speech is delivered on online meeting of Tsinghua University undergraduate projects.
+It describes how RustSBI implementation would coexist with secure enclave RISC-V SBI extensions,
+a possible way to detect exception within function while executing instruction, and a Rust way to
+read supervisor memory from machine mode. It also introduces SBI implementations like Oreboot
+and RustSBI-Unmatched, which can be used to develop secure enclave firmware projects.
 
 ### [RISC-V Bootloader Environment: Application and Standardization](2022/RISC-V引导程序环境：应用与规范.pdf), Apr 2022
 
