@@ -6,7 +6,7 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
-### [Technologies and Applications in RustSBI 0.3.0](2022/RustSBI 0.3.0 发布会.pdf), Nov 2022
+### [Technologies and Applications in RustSBI 0.3.0](2022/RustSBI%200.3.0%20发布会.pdf), Nov 2022
 
 This speech is delivered on weekly project meeting of rCore community. It announces RustSBI
 version 0.3.0 and shows important technologies and how RustSBI should be used. It includes
