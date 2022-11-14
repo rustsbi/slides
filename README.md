@@ -6,6 +6,14 @@ Repository for all slides and articles related to RustSBI
 
 Titles without a hyperlink indicates that slide of this speech is not public yet.
 
+### [Technologies and Applications in RustSBI 0.3.0](2022/RustSBI 0.3.0 发布会.pdf)
+
+This speech is delivered on weekly project meeting of rCore community. It announces RustSBI
+version 0.3.0 and shows important technologies and how RustSBI should be used. It includes
+RISC-V hypervisor and emulator development with RustSBI, introduces fast trap procedure and
+SBI testing framework, and shows how actual bootloader like Oreboot/LinuxBoot etc. should be
+implemented. It also compares performance and latency data of RustSBI to its competitors.
+
 ### [RISC-V Bootloader Environment: Application and Standardization](2022/RISC-V引导程序环境：应用与规范.pdf), Apr 2022
 
 Delivered online on discussion at open source RISC-V and Linux technology mettings. It includes
