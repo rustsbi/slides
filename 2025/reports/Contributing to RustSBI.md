@@ -100,7 +100,7 @@ The `<footer>` contains the sign-off and other references related to this commit
 
 - **`Signed-off-by:`** use `git commit` command with `-s` parameter.
 - **`Fix:`** add a reference to the open issue if your commit fix it.
-  - Examples: `https://github.com/rustsbi/rustsbi/issues/63` or `Fixes: #63`
+  - Examples: `Fix: https://github.com/rustsbi/rustsbi/issues/63` or `Fix: #63`
 - **`Refs:`** for other references.
   - Examples: `Refs: https://github.com/riscv-non-isa/riscv-sbi-doc/releases/download/vv3.0-rc1/riscv-sbi.pdf` ([fbbab51](https://github.com/rustsbi/rustsbi/commit/fbbab51bd9fdf6ca9b459f19714c8fd9a75240cc))
 - **`BREAKING CHANGE:`** introduce this commit may not be compatible with code that relies on the original fuctionality. These changes require community users to modify their code after updating to a version that contains this commit. In parallel, the following actions are performed:
