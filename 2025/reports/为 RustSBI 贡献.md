@@ -97,7 +97,7 @@
 
 - **`Signed-off-by:`** `git commit` 命令中通过 `-s` 参数指定。
 - **`Fix:`** 如果该提交修复了一个开放问题，在日志末尾添加对该问题的引用。
-  - 示例：`Fixes: https://github.com/rustsbi/rustsbi/issues/63` 或 `Fixes: #63
+	- 示例：`Fix: https://github.com/rustsbi/rustsbi/issues/63` 或 `Fix: #63`
 - **`Refs:`** 用于添加其他引用。
   - 示例：`Refs: https://github.com/riscv-non-isa/riscv-sbi-doc/releases/download/vv3.0-rc1/riscv-sbi.pdf` ([fbbab51](https://github.com/rustsbi/rustsbi/commit/fbbab51bd9fdf6ca9b459f19714c8fd9a75240cc))
 - **`BREAKING CHANGE:`** 表示引入了破坏性变更，可能无法兼容依赖于原有功能的代码。这些变更要求社区用户在更新到包含此提交的版本后修改他们的代码。引入破坏性变更的同时进行如下操作：
